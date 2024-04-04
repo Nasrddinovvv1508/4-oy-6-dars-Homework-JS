@@ -50,20 +50,21 @@
 
         // 4-MASALA
 // function Person(name, income, cost) {
-//     this.name = name;
-//     this.income = income;
-//     this.cost = cost;
+//         this.name = name;
+//         this.income = income;
+//         this.cost = cost;
+//         this.getMonthlyIncome = function (arg1, arg2) {
+//                 return arg1 - arg2;
+//         }
 // }
 
 // let person1 = new Person(`John`, 500, 73);
 // let person2 = new Person(`Adrian`, 1000, 200);
 // let person3 = new Person(`Tom`, 350, 0);
+// // ....
 
-// function netProfit(arg1, arg2) {
-//     return arg1 - arg2;
-// }
 
-// console.log(netProfit(person1.income, person1.cost));
+// console.log(person3.getMonthlyIncome(person3.income, person3.cost));
 
 
         // 5-MASALA
@@ -85,3 +86,11 @@
 
 
         // 6-MASALA
+// let numbers = {
+//         0: 10,
+// }
+
+// for (let key in numbers) {
+
+// }
+// console.log(numbers);
