@@ -28,6 +28,27 @@
 
 
         // 3-MASALA
+// let student = {
+//     name: "David Rayy",
+//     sclass: "VI",
+//     rollno: 12
+// }
+
+// let student2 = {
+// 	name : "David Rayy",
+// 	sclass : "VI",
+// 	rollno : 12,
+// 	age: 23,
+// 	address: 'world'
+// }
+
+// let studentLenght = Object.keys(student).length
+// let student2Lenght = Object.keys(student2).length
+// console.log(studentLenght);
+// console.log(student2Lenght);
+
+
+        // 4-MASALA
 // function Person(name, income, cost) {
 //     this.name = name;
 //     this.income = income;
@@ -45,7 +66,7 @@
 // console.log(netProfit(person1.income, person1.cost));
 
 
-        // 4-MASALA
+        // 5-MASALA
 // let car = {
 // 	rusumi: 'nexia 3',
 // 	rangi: 'Mokry',
@@ -61,3 +82,6 @@
 // }
 
 // car.stop();
+
+
+        // 6-MASALA
