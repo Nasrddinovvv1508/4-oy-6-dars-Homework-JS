@@ -26,3 +26,20 @@
 
 // deleteRollNo()
 
+
+        // 3-MASALA
+// function Person(name, income, cost) {
+//     this.name = name;
+//     this.income = income;
+//     this.cost = cost;
+// }
+
+// let person1 = new Person(`John`, 500, 73);
+// let person2 = new Person(`Adrian`, 1000, 200);
+// let person3 = new Person(`Tom`, 350, 0);
+
+// function netProfit(arg1, arg2) {
+//     return arg1 - arg2;
+// }
+
+// console.log(netProfit(person1.income, person1.cost));
