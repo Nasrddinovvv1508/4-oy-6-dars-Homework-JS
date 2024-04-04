@@ -43,3 +43,21 @@
 // }
 
 // console.log(netProfit(person1.income, person1.cost));
+
+
+        // 4-MASALA
+// let car = {
+// 	rusumi: 'nexia 3',
+// 	rangi: 'Mokry',
+//     start: function() {
+//         console.log('vrum vrum');
+//     },
+//     drive: () => {
+//         console.log('driving');
+//     },
+//     stop: function () {
+//         console.log('stopping');
+//     }
+// }
+
+// car.stop();
